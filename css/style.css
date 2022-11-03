@@ -1,0 +1,106 @@
+
+#container-fluid{
+
+  background-color:black;
+  margin-bottom:0;
+}
+/* to mobile phone */
+@media (min-width:400px){
+  h1{font-size: 1rem;}
+}
+
+.fluid {
+
+    background-color:black;
+    margin-bottom:0;
+
+}
+.second-container{
+
+    background-color:black;
+    padding: 10px;
+}
+.last-container{
+
+  background-color: black;
+  padding-bottom: 23rem;
+
+}
+/* its a backandwhite components */
+.switch{
+color:#38E54D;
+padding-bottom: 35px;
+display: block;
+text-decoration: none;}
+/* its a navigating barf */
+.orders{
+  color:white;
+  text-decoration: none;
+
+}
+.orders:hover{
+  color:black;
+}
+input{
+  width:39%;
+  padding: 3px;
+  margin-bottom: 10px;
+}
+body {
+  margin: 0;
+  text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.copyright{
+  color:grey;
+  font-size: 10px;
+
+}
+
+h1{
+  font-size: 33rem;
+  font-family: 'Chela One', cursive;
+  color:grey;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: lighter;
+}
+p{
+  margin: 0;
+  color:white;
+}
+hr{
+  border-bottom: none;
+
+  margin:inherit;
+  color: grey;
+  width:70%;
+  position: relative;
+  left:15%;
+  border-width: thin;
+
+  }
+.selection{
+  color:white;
+}
+ul{
+  margin-top: 0;
+
+
+}
+button{
+  color:white;
+  background-color: inherit;
+  padding: 7px;
+  border-radius: 7px;
+}
+.btn:hover{
+  color:black;
+  background-color: white;
+}
+
+li{
+  padding: 5px;
+  display: inline-block;
+  background-color: black;
+}
